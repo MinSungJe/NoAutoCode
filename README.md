@@ -4,7 +4,7 @@
 - Python으로 작성되었으며 tkinter를 사용해 GUI를 구성했습니다.
 ## 💡 Usage
 - 코딩테스트에서 VSCode를 이용할 때 자동완성 관련 설정을 꺼야하는 경우
-- VSCode에서 외부 IDE 연습을 이유로 자동완성이 없는 환경을 구현하고 싶을 때
+- VSCode에서 외부 IDE 연습을 이유로 자동완성이 없는 환경을 구현하고 싶은 경우
 ## 🛠 Execution
 - ```dist/noAutoCode.exe``` 실행
 ## 📄 Code
