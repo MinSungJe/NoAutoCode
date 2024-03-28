@@ -60,7 +60,8 @@ def modify_settings():
         "editor.suggest.showWords": False,
         "editor.suggest.showClasses": False,
         "editor.suggest.showColors": False,
-        "editor.parameterHints.enabled": False
+        "editor.parameterHints.enabled": False,
+        "editor.hover.enabled": False
     }
     try:
         with open(file_path, 'r') as file:
